@@ -21,6 +21,7 @@ public class isValidBST_98 {
     public boolean isValidBST(TreeNode root) {
         ArrayList<Integer> list = new ArrayList<>();
         return pre(list,root);
+
     }
     public boolean pre(List<Integer> list, TreeNode node)
     {
