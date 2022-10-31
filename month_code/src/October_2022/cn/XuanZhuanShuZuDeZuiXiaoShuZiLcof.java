@@ -39,11 +39,9 @@
 // 👍 716 👎 0
 
 
-package leetcode.editor.cn;
+package October_2022.cn;
 
 import org.junit.Test;
-
-import java.util.Arrays;
 
 //Java：旋转数组的最小数字
 //2022-10-29 20:50:57

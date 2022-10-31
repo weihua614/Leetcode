@@ -29,7 +29,7 @@
 // Related Topics 数组 动态规划 
 // 👍 291 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：股票的最大利润

@@ -25,7 +25,7 @@
 // Related Topics 树 深度优先搜索 广度优先搜索 二叉树 
 // 👍 214 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：二叉树的深度

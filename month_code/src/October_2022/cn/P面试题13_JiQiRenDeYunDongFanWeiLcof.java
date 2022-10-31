@@ -25,7 +25,7 @@
 // Related Topics 深度优先搜索 广度优先搜索 动态规划 
 // 👍 578 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：机器人的运动范围

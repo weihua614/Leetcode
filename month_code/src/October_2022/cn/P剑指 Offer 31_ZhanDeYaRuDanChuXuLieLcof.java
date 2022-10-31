@@ -33,7 +33,7 @@
 // Related Topics 栈 数组 模拟 
 // 👍 387 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 import java.util.ArrayDeque;

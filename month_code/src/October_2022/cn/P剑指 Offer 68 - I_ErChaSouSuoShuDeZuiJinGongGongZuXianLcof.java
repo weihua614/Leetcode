@@ -36,7 +36,7 @@
 // Related Topics 树 深度优先搜索 二叉搜索树 二叉树 
 // 👍 268 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：二叉搜索树的最近公共祖先

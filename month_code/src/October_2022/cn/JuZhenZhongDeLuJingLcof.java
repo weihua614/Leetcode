@@ -42,7 +42,7 @@
 // 👍 694 👎 0
 
 
-package leetcode.editor.cn;
+package October_2022.cn;
 
 
 

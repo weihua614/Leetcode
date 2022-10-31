@@ -26,8 +26,7 @@
 // Related Topics 数学 动态规划 概率与统计 
 // 👍 492 👎 0
 
-package leetcode.editor.cn;
-import javafx.util.Pair;
+package October_2022.cn;
 import org.junit.Test;
 
 import java.util.ArrayList;

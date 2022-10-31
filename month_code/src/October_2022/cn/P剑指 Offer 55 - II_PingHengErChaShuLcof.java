@@ -45,7 +45,7 @@
 // Related Topics 树 深度优先搜索 二叉树 
 // 👍 318 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：平衡二叉树

@@ -31,7 +31,7 @@
 // Related Topics 记忆化搜索 数学 动态规划 
 // 👍 337 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：青蛙跳台阶问题

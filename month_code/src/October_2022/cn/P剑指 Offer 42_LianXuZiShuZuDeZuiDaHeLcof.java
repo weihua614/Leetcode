@@ -25,7 +25,7 @@
 // Related Topics 数组 分治 动态规划 
 // 👍 617 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：连续子数组的最大和

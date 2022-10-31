@@ -37,7 +37,7 @@
 // Related Topics 双指针 字符串 
 // 👍 93 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 import java.util.ArrayList;

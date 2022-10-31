@@ -38,7 +38,7 @@
 // Related Topics 递归 数学 
 // 👍 357 👎 0
 
-package leetcode.editor.cn;
+package October_2022.cn;
 import org.junit.Test;
 
 //Java：数值的整数次方
