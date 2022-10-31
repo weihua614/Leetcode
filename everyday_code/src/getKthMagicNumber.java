@@ -1,9 +1,7 @@
 import org.junit.Test;
 
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.LinkedList;
 
 public class getKthMagicNumber {
     //https://leetcode.cn/problems/get-kth-magic-number-lcci/

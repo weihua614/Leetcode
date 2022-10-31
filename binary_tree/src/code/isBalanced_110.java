@@ -1,5 +1,7 @@
 package code;
 
+import org.junit.Test;
+
 /**
  * 给定一个二叉树，判断它是否是高度平衡的二叉树。
  *
@@ -22,5 +24,10 @@ public class isBalanced_110 {
         if(Math.abs(left-right)>2) return -1;
         else
         return Math.max(left,right)+1;
+    }
+
+    @Test
+    public void test(){
+        isBalanced1(null);
     }
 }

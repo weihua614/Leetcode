@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class buildArray_1441 {
+    public static void na()
+    {
+        System.out.println("静态");
+    }
     public List<String> buildArray(int[] target, int n) {
         int length = target.length;
         ArrayList<String> strings = new ArrayList<>(length);
@@ -28,5 +32,10 @@ public class buildArray_1441 {
             }
         }
         return strings;
+    }
+
+    public static void main(String[] args) {
+        buildArray_1441 a=new buildArray_1441();
+        a.notifyAll();
     }
 }
